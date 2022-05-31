@@ -1,0 +1,7 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "simulacro-minigolf:lib"
+
+    - path: "./test"
+      component: "simulacro-minigolf:test:simulacro-minigolf-test"
